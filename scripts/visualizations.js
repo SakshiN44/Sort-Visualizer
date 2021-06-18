@@ -1,10 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
-
 //We only have to change background-color and height of the sorting element.
 
 var speed=1000;
